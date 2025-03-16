@@ -78,7 +78,7 @@ Recruiters & HR Teams looking for an automated way to filter candidates.
 
 Job Portals integrating AI-powered resume screening.
 
-Companies & Startups for quick hiring decisions.
+Companies & Startups for quick and accurate hiring decisions.
 
 
 This project makes hiring faster, smarter, and more efficient with AI! 🚀
