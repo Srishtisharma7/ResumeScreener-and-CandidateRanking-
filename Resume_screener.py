@@ -34,7 +34,7 @@ def rank_resumes(job_description , resumes):
 
 
 
-# Streamlit app
+# Streamlit app prototype
 
 st.title("AI Resume Screening & Candidate Ranking System")
 
